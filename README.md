@@ -3,6 +3,7 @@
 This is to learn linear regression. According to the project code reproduced from the linear regression project in the textbook of machine learning practice.
 
 The result：
+
 ![图片](https://user-images.githubusercontent.com/45117470/156297290-51449a6a-0d57-459b-817e-07215fed86ff.png)
 
 ![图片](https://user-images.githubusercontent.com/45117470/156297301-b781138c-429a-418f-8749-ae8ea21f86e2.png)
